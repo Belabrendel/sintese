@@ -1,0 +1,25 @@
+
+ body{
+   background-color: burlywood;
+   text-align: center;
+   line-height: 1.5;
+}
+.foto{
+    width: 300px;
+    border-radius: 10%;
+}
+*{
+    margin:20;
+}
+
+input {
+    border:0.5cm;
+}
+h1,h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h2{
+    background-color: bisque;
+    border-radius: 0%;
+}
