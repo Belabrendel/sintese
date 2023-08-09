@@ -1,0 +1,28 @@
+<IDOCTYPE html>
+
+<html lang="pt-br">
+    <head>
+        <meta charset ="utf.8">
+        <meta name="viewport" content="width= device-width, initial-scale=1"> 
+        <title>Bolsa LV</title>
+        <link href="styles.css" rel="stylesheet"/>
+    </head>
+    <body>
+
+        <header>
+        <h1>Bolsa Louis Vuitton </h1>
+        </header>
+        <h2>Bolsa Original LV: 15.500,00</h2>
+        <main>
+      
+        <img class="foto" src="https://bobags.com.br/assets-v2/products/bolsa-alma-bb-louis-vuitton-ca3fb59b92402b58b69dc0b1d25a0b86856713dc.jpeg?w=700&cache=d4b44564722748239b0dcf03249071f80c913&fm=webp&s=7b8e8487211a290979067f610db4e37c">
+    </main>
+
+   <label> <input type="radio"> Pequena </label>
+   <label> <input type="radio"> Média </label>
+   <label> <input type="radio"> Grande </label>
+   <button type="submit"> Adicionar ao carrinho</button>
+     
+   <footer>Para mais infos contatar a</footer>
+    </body>
+</html>
